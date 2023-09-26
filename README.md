@@ -23,5 +23,6 @@
   
 </div>
 
-![Snake animation](https://github.com/rafinhavvz/rafinhavvz/blob/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafinhavvz)](https://github.com/rafinhavvz/github-readme-stats)
+
 
