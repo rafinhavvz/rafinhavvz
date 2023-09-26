@@ -23,6 +23,6 @@
   
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafinhavvz)](https://github.com/rafinhavvz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafinhavvz&show_icons=true&theme=radical)](https://github.com/rafinhavvz/github-readme-stats)
 
 
